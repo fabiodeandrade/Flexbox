@@ -8,7 +8,7 @@ Em um mundo não muito distante a grande maioria dos desenvolvedores web detesta
 Os códigos eram cheio de `float`, `absolute`, `relative` que deixava tudo muito frágil à medida’ que a responsividade ia ganhando mais espaço, até que alguma alma iluminada - ou almas - introduziram uma nova feature para o CSS o `display: flex;`.
  
  
-### 🤩 É tão fácil assim mesmo?
+### 🤩 É tão fácil assim mesmo? Realmente!
  
 Extremamente, ouso a dizer que você aprendendo uma única vez - e pondo em prática -, conseguirá criar, editar e dar manutenção em **90%** dos layouts web.
  
